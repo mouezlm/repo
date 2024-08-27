@@ -1,0 +1,1 @@
+const p = 'this is totoly useless project'
